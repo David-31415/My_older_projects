@@ -1,1 +1,2 @@
 # My_projects
+These are just some programs that I have worked on over time. Some are practical, some are fun, some are just interesting to me.
