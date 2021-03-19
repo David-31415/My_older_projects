@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<CROSSFIRE>
+<VERSION>1</VERSION>
+<TITLE>Themeless 3</TITLE>
+<AUTHOR>David Litman</AUTHOR>
+<COPYRIGHT>2020</COPYRIGHT>
+<GRID width="15">
+BARISTA.PATIENT
+OVERLAP.OPENNOW
+SOBERUP.SOANDSO
+SCANS.SIT.LEWIS
+MATE.STROS.DIRT
+ADE.SCOOPER.TEA
+NORTHERN.CIPHER
+...MINECRAFT...
+ASSIST.RENTABLE
+TEE.HEGOATS.RAN
+EXES.DISCS.TOLD
+ATION.GST.LOCAL
+TANNING.INAPOKE
+OPTICAL.NAIADES
+NEOCENE.GENZERS
+</GRID>
+<WORDS>
+<WORD dir="ACROSS" id="0" isTheme="false" num="1">This job can be a grind</WORD>
+<WORD dir="ACROSS" id="1" isTheme="false" num="8">Forbearing</WORD>
+<WORD dir="ACROSS" id="2" isTheme="false" num="15">Dark part of a Venn diagram, usually</WORD>
+<WORD dir="ACROSS" id="3" isTheme="false" num="16">Post-quarantine sign... or anti-quarantine sign</WORD>
+<WORD dir="ACROSS" id="4" isTheme="false" num="17">Desert wine?</WORD>
+<WORD dir="ACROSS" id="5" isTheme="false" num="18">Stinker</WORD>
+<WORD dir="ACROSS" id="6" isTheme="false" num="19">CATs and PETs</WORD>
+<WORD dir="ACROSS" id="7" isTheme="false" num="20">Meet</WORD>
+<WORD dir="ACROSS" id="8" isTheme="false" num="22">Half an expedition team</WORD>
+<WORD dir="ACROSS" id="9" isTheme="false" num="23">The last word in chess</WORD>
+<WORD dir="ACROSS" id="10" isTheme="false" num="24">A.L. West team, briefly</WORD>
+<WORD dir="ACROSS" id="11" isTheme="false" num="26">Schmutz</WORD>
+<WORD dir="ACROSS" id="12" isTheme="false" num="27">Sweet summer sip</WORD>
+<WORD dir="ACROSS" id="13" isTheme="false" num="28">Cone worker</WORD>
+<WORD dir="ACROSS" id="14" isTheme="false" num="30">Juicy gossip, in slang</WORD>
+<WORD dir="ACROSS" id="15" isTheme="false" num="31">___ lights</WORD>
+<WORD dir="ACROSS" id="16" isTheme="false" num="33">A key will help you unlock it</WORD>
+<WORD dir="ACROSS" id="17" isTheme="false" num="35">It recently became the best selling video game of all time</WORD>
+<WORD dir="ACROSS" id="18" isTheme="false" num="37">1 It gets you a point in hockey</WORD>
+<WORD dir="ACROSS" id="19" isTheme="false" num="40">AirBNB-ready</WORD>
+<WORD dir="ACROSS" id="20" isTheme="false" num="44">Where you can only go right or left</WORD>
+<WORD dir="ACROSS" id="21" isTheme="false" num="45">Billies</WORD>
+<WORD dir="ACROSS" id="22" isTheme="false" num="47">Threw ones hat in the ring</WORD>
+<WORD dir="ACROSS" id="23" isTheme="false" num="48">Some PC files</WORD>
+<WORD dir="ACROSS" id="24" isTheme="false" num="50">They used to be floppy</WORD>
+<WORD dir="ACROSS" id="25" isTheme="false" num="51">Snitched</WORD>
+<WORD dir="ACROSS" id="26" isTheme="false" num="52">Valid ending?</WORD>
+<WORD dir="ACROSS" id="27" isTheme="false" num="54">Time zone of the UAE</WORD>
+<WORD dir="ACROSS" id="28" isTheme="false" num="55">It's often faster than the express</WORD>
+<WORD dir="ACROSS" id="29" isTheme="false" num="56">You have to pay if you're doing it indoor</WORD>
+<WORD dir="ACROSS" id="30" isTheme="false" num="58">Pig ___</WORD>
+<WORD dir="ACROSS" id="31" isTheme="false" num="60">Kind of cable or drive</WORD>
+<WORD dir="ACROSS" id="32" isTheme="false" num="61">Water maidens</WORD>
+<WORD dir="ACROSS" id="33" isTheme="false" num="62">Geological period: Var.</WORD>
+<WORD dir="ACROSS" id="34" isTheme="false" num="63">They say OK Boomer</WORD>
+<WORD dir="DOWN" id="35" isTheme="false" num="1">Informal term for a leader</WORD>
+<WORD dir="DOWN" id="37" isTheme="false" num="2">Haas or fuerte</WORD>
+<WORD dir="DOWN" id="39" isTheme="false" num="3">One who gives back</WORD>
+<WORD dir="DOWN" id="41" isTheme="false" num="4">Goodnight girl</WORD>
+<WORD dir="DOWN" id="44" isTheme="false" num="5">Sharp shooters?: Abbr.</WORD>
+<WORD dir="DOWN" id="47" isTheme="false" num="6">Symbol for 2π</WORD>
+<WORD dir="DOWN" id="50" isTheme="false" num="7">Google Play alternative</WORD>
+<WORD dir="DOWN" id="53" isTheme="false" num="8">Recovery zone, for short</WORD>
+<WORD dir="DOWN" id="55" isTheme="false" num="9">Private address?</WORD>
+<WORD dir="DOWN" id="58" isTheme="false" num="10">Jaguar color</WORD>
+<WORD dir="DOWN" id="61" isTheme="false" num="11">Lodged</WORD>
+<WORD dir="DOWN" id="64" isTheme="false" num="12">Conclude on</WORD>
+<WORD dir="DOWN" id="66" isTheme="false" num="13">"Not gonna happen!"</WORD>
+<WORD dir="DOWN" id="68" isTheme="false" num="14">Mediocre, review-wise</WORD>
+<WORD dir="DOWN" id="52" isTheme="false" num="21">Military decoration whose WWII version had a swastika in the center</WORD>
+<WORD dir="DOWN" id="48" isTheme="false" num="24">Like holiday candles</WORD>
+<WORD dir="DOWN" id="56" isTheme="false" num="25">Lines through a circle</WORD>
+<WORD dir="DOWN" id="45" isTheme="false" num="28">Word on many middle eastern restaurants</WORD>
+<WORD dir="DOWN" id="59" isTheme="false" num="29">Estrangements</WORD>
+<WORD dir="DOWN" id="42" isTheme="false" num="32">When 30A is overly detailed (abbr)</WORD>
+<WORD dir="DOWN" id="62" isTheme="false" num="34">Org. originally called the National Congress of Mothers</WORD>
+<WORD dir="DOWN" id="54" isTheme="false" num="36">putting on a show again?</WORD>
+<WORD dir="DOWN" id="36" isTheme="false" num="37">Stuffed oneself</WORD>
+<WORD dir="DOWN" id="38" isTheme="false" num="38">catalyst to Paris Hilton's fame</WORD>
+<WORD dir="DOWN" id="40" isTheme="false" num="39">X-ray, perhaps</WORD>
+<WORD dir="DOWN" id="65" isTheme="false" num="41">Its rule number 1: sisters are off limits</WORD>
+<WORD dir="DOWN" id="67" isTheme="false" num="42">Magic, for one</WORD>
+<WORD dir="DOWN" id="69" isTheme="false" num="43">Typically compact pool, ironically</WORD>
+<WORD dir="DOWN" id="51" isTheme="false" num="46">Hide and seek giveaway, maybe</WORD>
+<WORD dir="DOWN" id="43" isTheme="false" num="49">Sega's mascot</WORD>
+<WORD dir="DOWN" id="63" isTheme="false" num="51">Scorpio birthstone</WORD>
+<WORD dir="DOWN" id="46" isTheme="false" num="53">City in the French Riviera</WORD>
+<WORD dir="DOWN" id="60" isTheme="false" num="55">Often misused past participle</WORD>
+<WORD dir="DOWN" id="49" isTheme="false" num="57">Ma's ma</WORD>
+<WORD dir="DOWN" id="57" isTheme="false" num="59">Scottish refusal</WORD>
+</WORDS>
+<NOTES/>
+</CROSSFIRE>

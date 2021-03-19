@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<CROSSFIRE>
+<VERSION>1</VERSION>
+<TITLE>Vowel Progression</TITLE>
+<AUTHOR>David Litman and Zachary Partnoy</AUTHOR>
+<COPYRIGHT>2020</COPYRIGHT>
+<GRID width="15">
+BANG.CAMARO.ACE
+ALOE.UNUSED.LAX
+BATTERYLIFE.PRC
+ESSAY..TAU.SHOE
+...BETTINGITALL
+VMA.DIE..EMO...
+IATE.EAST.SOFAR
+BITTERCHOCOLATE
+ENACT.HEXA.SQMI
+...EAR..ISH.SSN
+BOTTLEROCKET...
+EPIC.TAP..CEDAR
+LET.BUTTERKNIFE
+ORA.OREIDA.DARK
+WAN.ANDNOT.SLOT
+</GRID>
+<WORDS>
+<WORD dir="ACROSS" id="0" isTheme="false" num="1">"You're Dead!"</WORD>
+<WORD dir="ACROSS" id="1" isTheme="false" num="5">Car won by Brad Rutter on Jeopardy!</WORD>
+<WORD dir="ACROSS" id="2" isTheme="false" num="11">Star pitcher</WORD>
+<WORD dir="ACROSS" id="3" isTheme="false" num="14">Soothing succulent</WORD>
+<WORD dir="ACROSS" id="4" isTheme="false" num="15">In mint-condition</WORD>
+<WORD dir="ACROSS" id="5" isTheme="false" num="16">Cali's largest airport</WORD>
+<WORD dir="ACROSS" id="6" isTheme="true" num="17">Juice that turns red when it's running out</WORD>
+<WORD dir="ACROSS" id="7" isTheme="false" num="19">One Child Nation: abbr.</WORD>
+<WORD dir="ACROSS" id="8" isTheme="false" num="20">Part of a college application</WORD>
+<WORD dir="ACROSS" id="9" isTheme="false" num="21">Sigma follower</WORD>
+<WORD dir="ACROSS" id="10" isTheme="false" num="22">It might get shined</WORD>
+<WORD dir="ACROSS" id="11" isTheme="true" num="23">Going for a true daily double, say</WORD>
+<WORD dir="ACROSS" id="12" isTheme="false" num="27">Justin Bieber was the youngest person to win one</WORD>
+<WORD dir="ACROSS" id="13" isTheme="false" num="30">Lose an arcade game</WORD>
+<WORD dir="ACROSS" id="14" isTheme="false" num="31">Goth subculture</WORD>
+<WORD dir="ACROSS" id="15" isTheme="false" num="32">"It must've been something ___"</WORD>
+<WORD dir="ACROSS" id="16" isTheme="false" num="34">Where the sun rises</WORD>
+<WORD dir="ACROSS" id="17" isTheme="false" num="37">As yet</WORD>
+<WORD dir="ACROSS" id="18" isTheme="true" num="41">Confection that has a high percentage of cacao</WORD>
+<WORD dir="ACROSS" id="19" isTheme="false" num="44">Put into law</WORD>
+<WORD dir="ACROSS" id="20" isTheme="false" num="45">One more than pente</WORD>
+<WORD dir="ACROSS" id="21" isTheme="false" num="46">1 is 640 acres</WORD>
+<WORD dir="ACROSS" id="22" isTheme="false" num="47">Corn unit</WORD>
+<WORD dir="ACROSS" id="23" isTheme="false" num="49">Sorta suffix</WORD>
+<WORD dir="ACROSS" id="24" isTheme="false" num="51">Important 9-digit number</WORD>
+<WORD dir="ACROSS" id="25" isTheme="true" num="52">Science class projectile</WORD>
+<WORD dir="ACROSS" id="26" isTheme="false" num="58">Like an odyssey</WORD>
+<WORD dir="ACROSS" id="27" isTheme="false" num="59">Water option</WORD>
+<WORD dir="ACROSS" id="28" isTheme="false" num="60">Coniferous tree native to the Himalayas</WORD>
+<WORD dir="ACROSS" id="29" isTheme="false" num="64">Tennis umpire's cry</WORD>
+<WORD dir="ACROSS" id="30" isTheme="true" num="65">Dull kitchen utensil</WORD>
+<WORD dir="ACROSS" id="31" isTheme="false" num="68">Man ___ mouse</WORD>
+<WORD dir="ACROSS" id="32" isTheme="false" num="69">Tater tots' brand</WORD>
+<WORD dir="ACROSS" id="33" isTheme="false" num="70">Not light</WORD>
+<WORD dir="ACROSS" id="34" isTheme="false" num="71">Ashen</WORD>
+<WORD dir="ACROSS" id="35" isTheme="false" num="72">Negative logic combination</WORD>
+<WORD dir="ACROSS" id="36" isTheme="false" num="73">Gambling machine unit</WORD>
+<WORD dir="DOWN" id="37" isTheme="false" num="1">Wee lad or lass, say</WORD>
+<WORD dir="DOWN" id="40" isTheme="false" num="2">[sigh]</WORD>
+<WORD dir="DOWN" id="43" isTheme="false" num="3">Haves and have ___</WORD>
+<WORD dir="DOWN" id="46" isTheme="false" num="4">Score a 85/100, say</WORD>
+<WORD dir="DOWN" id="51" isTheme="false" num="5">Dirty dog</WORD>
+<WORD dir="DOWN" id="54" isTheme="false" num="6">What card a magician tells you to pick</WORD>
+<WORD dir="DOWN" id="57" isTheme="false" num="7">Prefix after mono?</WORD>
+<WORD dir="DOWN" id="60" isTheme="false" num="8">Like some pears</WORD>
+<WORD dir="DOWN" id="63" isTheme="false" num="9">What an immigrant might seek</WORD>
+<WORD dir="DOWN" id="66" isTheme="false" num="10">One was written on a Grecian urn</WORD>
+<WORD dir="DOWN" id="71" isTheme="false" num="11">Pack leader</WORD>
+<WORD dir="DOWN" id="74" isTheme="false" num="12">Reed who directed "The Third Man"</WORD>
+<WORD dir="DOWN" id="77" isTheme="false" num="13">Microsoft spreadsheet software</WORD>
+<WORD dir="DOWN" id="48" isTheme="false" num="18">Leered at, with "up"</WORD>
+<WORD dir="DOWN" id="69" isTheme="false" num="22">Toad ___</WORD>
+<WORD dir="DOWN" id="52" isTheme="false" num="24">Echelon</WORD>
+<WORD dir="DOWN" id="55" isTheme="false" num="25">Instruct</WORD>
+<WORD dir="DOWN" id="67" isTheme="false" num="26">Lead in to a boast or an apology</WORD>
+<WORD dir="DOWN" id="38" isTheme="false" num="27">Get along with, in slang</WORD>
+<WORD dir="DOWN" id="41" isTheme="false" num="28">Course in between appetizers and dessert</WORD>
+<WORD dir="DOWN" id="44" isTheme="false" num="29">Lead in to boy or girl</WORD>
+<WORD dir="DOWN" id="47" isTheme="false" num="33">On and on...</WORD>
+<WORD dir="DOWN" id="58" isTheme="false" num="35">That woman</WORD>
+<WORD dir="DOWN" id="61" isTheme="false" num="36">Like nuclear waste</WORD>
+<WORD dir="DOWN" id="72" isTheme="false" num="38">"frequent" website catagory</WORD>
+<WORD dir="DOWN" id="75" isTheme="false" num="39">Money dispensers</WORD>
+<WORD dir="DOWN" id="78" isTheme="false" num="40">Curtail, with "in"</WORD>
+<WORD dir="DOWN" id="49" isTheme="false" num="42">Them too: Abbr.</WORD>
+<WORD dir="DOWN" id="64" isTheme="false" num="43">The ___ of Amontillado</WORD>
+<WORD dir="DOWN" id="53" isTheme="false" num="48">Run back, in football</WORD>
+<WORD dir="DOWN" id="68" isTheme="false" num="50">Where those who are darned by Gosh go</WORD>
+<WORD dir="DOWN" id="39" isTheme="false" num="52">Underneath</WORD>
+<WORD dir="DOWN" id="42" isTheme="false" num="53">Carmen is a tragic one</WORD>
+<WORD dir="DOWN" id="45" isTheme="false" num="54">Nashville footballer</WORD>
+<WORD dir="DOWN" id="56" isTheme="false" num="55">Starred, say</WORD>
+<WORD dir="DOWN" id="59" isTheme="false" num="56">Choose to be a part of</WORD>
+<WORD dir="DOWN" id="70" isTheme="false" num="57">Cares to</WORD>
+<WORD dir="DOWN" id="73" isTheme="false" num="61">Ring up</WORD>
+<WORD dir="DOWN" id="76" isTheme="false" num="62">Hendrix do</WORD>
+<WORD dir="DOWN" id="79" isTheme="false" num="63">"Destroyed" in gamer lingo</WORD>
+<WORD dir="DOWN" id="50" isTheme="false" num="65">___ constrictor</WORD>
+<WORD dir="DOWN" id="62" isTheme="false" num="66">Tokyo before Meiji</WORD>
+<WORD dir="DOWN" id="65" isTheme="false" num="67">Plague-carrying-flea carrier</WORD>
+</WORDS>
+<NOTES/>
+</CROSSFIRE>

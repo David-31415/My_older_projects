@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<CROSSFIRE>
+<VERSION>1</VERSION>
+<TITLE>InnerPeace</TITLE>
+<AUTHOR>David Litman</AUTHOR>
+<COPYRIGHT>2020</COPYRIGHT>
+<GRID width="15">
+ADMIN.ATM..SINE
+CRASH.BOOM.UNIX
+LOCALMEDIA.ISLE
+.LAW.OLD.RETIES
+.LOTTO..ASKED..
+...HERESTHEDEAL
+ENDAT.FATE..MMA
+TORT.TINES.HAIR
+ALI..ALAS.PANDA
+SAVEASEATFOR...
+..EXITS..ERDOC.
+CIRCLE.ORA.SKA.
+LOSE.INNERPEACE
+AWES.TALL.ALPHA
+DADS..NYY.SLIER
+</GRID>
+<CIRCLES>32,33,34,35,80,81,82,83,138,139,140,141</CIRCLES>
+<WORDS>
+<WORD dir="ACROSS" id="0" isTheme="false" num="1">Server overseer, informally</WORD>
+<WORD dir="ACROSS" id="1" isTheme="false" num="6">24-hr. cash source</WORD>
+<WORD dir="ACROSS" id="2" isTheme="false" num="9">Cosecant reciprocal</WORD>
+<WORD dir="ACROSS" id="3" isTheme="false" num="13">Stay somewhere for the night</WORD>
+<WORD dir="ACROSS" id="4" isTheme="false" num="14">Sonic ___</WORD>
+<WORD dir="ACROSS" id="5" isTheme="false" num="16">Linux forerunner</WORD>
+<WORD dir="ACROSS" id="6" isTheme="true" num="17">Community news source</WORD>
+<WORD dir="ACROSS" id="7" isTheme="false" num="19">Puerto Rico, e.g.</WORD>
+<WORD dir="ACROSS" id="8" isTheme="false" num="20">NBC's "___ and order"</WORD>
+<WORD dir="ACROSS" id="9" isTheme="false" num="21">Superannuated</WORD>
+<WORD dir="ACROSS" id="10" isTheme="false" num="22">Adjusts ones laces, maybe</WORD>
+<WORD dir="ACROSS" id="11" isTheme="false" num="24">According to the hedonic treadmill, losers often end up just as happy as winners</WORD>
+<WORD dir="ACROSS" id="12" isTheme="false" num="26">Raised one's hand</WORD>
+<WORD dir="ACROSS" id="13" isTheme="false" num="27">"This is how it is"</WORD>
+<WORD dir="ACROSS" id="14" isTheme="false" num="32">Finish with</WORD>
+<WORD dir="ACROSS" id="15" isTheme="false" num="35">It's written in the starts</WORD>
+<WORD dir="ACROSS" id="16" isTheme="false" num="36">Ronda Rousey organization, for short</WORD>
+<WORD dir="ACROSS" id="17" isTheme="false" num="37">Libel, e.g.</WORD>
+<WORD dir="ACROSS" id="18" isTheme="false" num="38">They help you spear food</WORD>
+<WORD dir="ACROSS" id="19" isTheme="false" num="39">Ideal Rogaine result</WORD>
+<WORD dir="ACROSS" id="20" isTheme="false" num="40">Phantom punch deliverer</WORD>
+<WORD dir="ACROSS" id="21" isTheme="false" num="41">Quaint plaint</WORD>
+<WORD dir="ACROSS" id="22" isTheme="false" num="42">Surprisingly, a common variety of it is brown</WORD>
+<WORD dir="ACROSS" id="23" isTheme="true" num="43">Reserve, in a way</WORD>
+<WORD dir="ACROSS" id="24" isTheme="false" num="47">Often illuminated sign</WORD>
+<WORD dir="ACROSS" id="25" isTheme="false" num="48">Certain hosp. physician</WORD>
+<WORD dir="ACROSS" id="26" isTheme="false" num="51">Subject of inscribed angle theorems</WORD>
+<WORD dir="ACROSS" id="27" isTheme="false" num="53">Minuti</WORD>
+<WORD dir="ACROSS" id="28" isTheme="false" num="55">Jamaican pop genre</WORD>
+<WORD dir="ACROSS" id="29" isTheme="false" num="56">Ditch</WORD>
+<WORD dir="ACROSS" id="30" isTheme="true" num="57">Spiritual goal... or a hint to 17-, 27- and 43-Across each have?</WORD>
+<WORD dir="ACROSS" id="31" isTheme="false" num="61">Blows away</WORD>
+<WORD dir="ACROSS" id="32" isTheme="false" num="62">Starbucks' smallest size</WORD>
+<WORD dir="ACROSS" id="33" isTheme="false" num="63">Pack leader</WORD>
+<WORD dir="ACROSS" id="34" isTheme="false" num="64">Stereotypical producers of groan-worthy jokes</WORD>
+<WORD dir="ACROSS" id="35" isTheme="false" num="65">Red Sox archrival, on scoreboards</WORD>
+<WORD dir="ACROSS" id="36" isTheme="false" num="66">More cunning</WORD>
+<WORD dir="DOWN" id="37" isTheme="false" num="1">Athletes often tear it</WORD>
+<WORD dir="DOWN" id="40" isTheme="false" num="2">Eccentric</WORD>
+<WORD dir="DOWN" id="43" isTheme="false" num="3">Former Portuguese territory in modern China</WORD>
+<WORD dir="DOWN" id="45" isTheme="false" num="4">"You're ain't slick!"</WORD>
+<WORD dir="DOWN" id="47" isTheme="false" num="5">Kings and senators org.</WORD>
+<WORD dir="DOWN" id="52" isTheme="false" num="6">First murder victim</WORD>
+<WORD dir="DOWN" id="55" isTheme="false" num="7">Sweeney ___</WORD>
+<WORD dir="DOWN" id="58" isTheme="false" num="8">"You're accusing me?!"</WORD>
+<WORD dir="DOWN" id="66" isTheme="false" num="9">Satisfied</WORD>
+<WORD dir="DOWN" id="68" isTheme="false" num="10">Secret agent</WORD>
+<WORD dir="DOWN" id="70" isTheme="false" num="11">"Murder on the ___," Agatha Christie novel</WORD>
+<WORD dir="DOWN" id="73" isTheme="false" num="12">Old flames</WORD>
+<WORD dir="DOWN" id="61" isTheme="false" num="15">Quagmires</WORD>
+<WORD dir="DOWN" id="50" isTheme="false" num="18">Othello, for one</WORD>
+<WORD dir="DOWN" id="63" isTheme="false" num="23">Squeeze out</WORD>
+<WORD dir="DOWN" id="48" isTheme="false" num="25">Asian New Year</WORD>
+<WORD dir="DOWN" id="59" isTheme="false" num="26">Corroborate</WORD>
+<WORD dir="DOWN" id="53" isTheme="false" num="28">Uses TurboTax, say</WORD>
+<WORD dir="DOWN" id="56" isTheme="false" num="29">Arabian Peninsula capital</WORD>
+<WORD dir="DOWN" id="71" isTheme="false" num="30">Caught up in</WORD>
+<WORD dir="DOWN" id="74" isTheme="false" num="31">Tomb Raider's protagonist Croft</WORD>
+<WORD dir="DOWN" id="38" isTheme="false" num="32">Frat letters</WORD>
+<WORD dir="DOWN" id="41" isTheme="false" num="33">"The Big Easy" city</WORD>
+<WORD dir="DOWN" id="44" isTheme="false" num="34">Crash course?</WORD>
+<WORD dir="DOWN" id="51" isTheme="false" num="38">Expect a win</WORD>
+<WORD dir="DOWN" id="67" isTheme="false" num="39">Aggressive pitch</WORD>
+<WORD dir="DOWN" id="64" isTheme="false" num="42">"___ favor"</WORD>
+<WORD dir="DOWN" id="46" isTheme="false" num="44">Overflow</WORD>
+<WORD dir="DOWN" id="49" isTheme="false" num="45">Be ill</WORD>
+<WORD dir="DOWN" id="62" isTheme="false" num="46">Cause of a cold sweat</WORD>
+<WORD dir="DOWN" id="69" isTheme="false" num="49">Animal with zebra-striped legs</WORD>
+<WORD dir="DOWN" id="72" isTheme="false" num="50">Store</WORD>
+<WORD dir="DOWN" id="39" isTheme="false" num="51">In apparel</WORD>
+<WORD dir="DOWN" id="42" isTheme="false" num="52">Ames state</WORD>
+<WORD dir="DOWN" id="57" isTheme="false" num="53">Lone</WORD>
+<WORD dir="DOWN" id="60" isTheme="false" num="54">Lean on</WORD>
+<WORD dir="DOWN" id="54" isTheme="false" num="58">Indian bread</WORD>
+<WORD dir="DOWN" id="65" isTheme="false" num="59">Faux ___ (throwing up in your friend's car, maybe)</WORD>
+<WORD dir="DOWN" id="75" isTheme="false" num="60">Often missing feature of emojis</WORD>
+</WORDS>
+<NOTES/>
+</CROSSFIRE>
