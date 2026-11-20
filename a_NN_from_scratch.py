@@ -33,7 +33,6 @@ def layer_sizes(X, Y):
     n_x=np.shape(X)[0]
     n_h=4
     n_y=np.shape(Y)[0]
-    # YOUR CODE ENDS HERE
     return (n_x, n_h, n_y)
 
 def initialize_parameters(n_x, n_h, n_y):
@@ -78,7 +77,6 @@ def compute_cost(A2, Y):
 
     logprobs = np.multiply(np.log(A2),Y)+np.multiply(1-Y,np.log(1-A2))
     cost = -1/m * np.sum(logprobs)
-    # YOUR CODE ENDS HERE
     
     cost = float(np.squeeze(cost))  # makes sure cost is the dimension we expect. 
                                     # E.g., turns [[17]] into 17 
@@ -86,7 +84,7 @@ def compute_cost(A2, Y):
     return cost
 
 
-def backward_propagation(parameters, cache, X, Y):
+def backward_propagation(parameters, cache, X, Y): #chain rule brutally implemented
 
     m = X.shape[1]
 
@@ -104,7 +102,6 @@ def backward_propagation(parameters, cache, X, Y):
     dZ1=np.dot(W2.T,dZ2)*(1-A1**2)
     dW1=1/m*np.dot(dZ1,X.T)
     db1=1/m*np.sum(dZ1, axis=1, keepdims=True)
-    # YOUR CODE ENDS HERE
     
     grads = {"dW1": dW1,
              "db1": db1,
@@ -164,7 +161,6 @@ def nn_model(X, Y, n_h, num_iterations = 10000, print_cost=False):
         cost=compute_cost(A2,Y)
         grads=backward_propagation(parameters,cache,X,Y)
         parameters=update_parameters(parameters,grads)
-        # YOUR CODE ENDS HERE
         
         # Print the cost every 1000 iterations
         if print_cost and i % 1000 == 0:
